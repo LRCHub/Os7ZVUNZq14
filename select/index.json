@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幻（feat. いつか）",
+  "base_artist": "4s4ki",
+  "createdAt": "2026-02-21T08:07:04.930633Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻 feat.いつか(Charisma.com)",
+      "artist": "4s4ki",
+      "has_synced": false,
+      "path": "select/pl_01_幻_feat.いつか(Charisma.com)_4s4ki.txt"
+    }
+  ]
+}
